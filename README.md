@@ -1,4 +1,4 @@
-# wps-vba-status-tracker
+# subitem-status-tracker
 
 A small, dependency-free **WPS / Excel VBA** macro that groups sub-items
 (boxes, batches, line items, serials, …) under a **master number** and tallies
