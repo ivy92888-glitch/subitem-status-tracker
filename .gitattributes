@@ -1,0 +1,6 @@
+# VBA source: keep Windows CRLF line endings
+*.bas text eol=crlf
+*.md text eol=lf
+
+# Binary sample workbook
+*.xlsx binary
