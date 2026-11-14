@@ -10,6 +10,10 @@ generic, reusable utility that works for many roles: warehouse picking, logistic
 manifest reconciliation, production batch tracking, order-fulfilment checks,
 inventory QC, and more.
 
+> *Unofficial project. Not affiliated with, endorsed by, or sponsored by Kingsoft
+> (WPS Office) or Microsoft (VBA). Product names are used only to describe the
+> runtime environment.*
+
 ## Features
 
 - **Group & count** — automatically derives the master number from each sub-item
@@ -82,7 +86,7 @@ data you can open and run the macro against immediately. Expected result:
 ## Project layout
 
 ```
-wps-vba-status-tracker/
+subitem-status-tracker/
 ├── src/
 │   └── SubItemTally.bas        # the macro (import into WPS/Excel)
 ├── docs/
@@ -105,3 +109,14 @@ desktop Microsoft Excel for Windows.
 ## License
 
 Released under the [MIT License](LICENSE). Copyright (c) 2026 ivy92888-glitch.
+
+## Legal
+
+- This project is an independent, clean-room reimplementation authored by
+  `ivy92888-glitch`. It contains **no** proprietary data, screenshots, or
+  business-specific material from any former employer or third party.
+- The MIT License covers only the author's own implementation. Publishing it does
+  not represent or transfer any rights of any other party.
+- Product names such as WPS Office and Microsoft Excel are trademarks of their
+  respective owners and are referenced solely to describe the runtime
+  environment.
