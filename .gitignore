@@ -1,0 +1,14 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+ehthumbs.db
+
+# Local working notes (not part of the published project)
+_notes/
+*.local.md
+
+# Python cache (only if you run the sample generator locally)
+__pycache__/
+*.pyc
